@@ -15,6 +15,8 @@ and open the template in the editor.
         echo "primera linea del proyecto";
         echo '<br>';
         echo "segunda linea del proyecto";
+        echo '<br>';
+        echo "tercera linea del proyecto";
         
         ?>
     </body>
